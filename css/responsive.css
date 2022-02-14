@@ -1,0 +1,18 @@
+@media only screen and (max-width:980px){
+    nav{
+        flex-direction: column;
+    }
+    .search input{
+        margin: 0px 5px;
+    }
+    .search{
+        margin: 15px;
+    }
+
+    .slider{
+        height: 30vh;
+    }
+    .card-item img{
+        width: 107px;
+    }
+}
